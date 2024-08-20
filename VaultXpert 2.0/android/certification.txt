@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the VaultXpert 2.0
+---------------------------------------------------
+
+app_name - 						VaultXpert
+app_alias - 					vaultxpert
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				-
+app_author_country - 			India
+app_password - 					RV6QICpxvAsk
+app_versionName - 				versionName "2.0"
+app_versionCode - 				200
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Friday 16th of August 2024 06:33:48 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
